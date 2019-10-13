@@ -1,0 +1,28 @@
+<div fxLayout="row" fxLayoutAlign="center center">
+  <mat-card fxFlex="100">
+	<div fxLayout="column" style="color:blue;"  >
+		<div fxFlex="30" class="action-blurb">FirstName</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">LastName</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">PhoneNumber</div>
+	</div></mat-card>
+  <mat-card fxFlex="100">
+  <div fxLayout="column" >
+		<div fxFlex="30" class="action-blurb">Shrav</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">Mane</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">8734193479</div>
+	</div></mat-card>
+  <mat-card fxFlex="100">
+  <div fxLayout="column">
+		<div fxFlex="30" class="action-blurb">John</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">Dev</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">8354193479</div>
+	</div></mat-card>
+  <mat-card fxFlex="100">
+  <div fxLayout="column">
+		<div fxFlex="30" class="action-blurb">Lisa</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">Hade</div>
+		<div fxFlex="30" class="action-blurb" fxFlexOffset="5">6464193479</div>
+	</div>
+  
+</mat-card>
+</div>
